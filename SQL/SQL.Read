@@ -1,0 +1,48 @@
+1. SQL - Structured Query Language.
+2. It lets you access and manipulate databases.
+3. It is a Ameican National Standards Institute standard.
+4. SQL can execute queries against a database.
+5. SQL can retrieve data from a database.
+6. SQL can insert records in a database.
+7. SQL can update records in a database.
+8. SQL can delete records from a database.
+9. SQL can create new databases.
+10. SQL can create new tables in a database.
+11. SQL can create stored procedures in a database.
+12. SQL can create views in a database.
+13. SQL can set permissions on tables, procedures, and views.
+14. RDBMS - Relational Database Management Systems.
+15. The data in RDBMS is stored in the database objects called Tables.
+16. Every table consists of columns and rows.
+17. Columns consist of the name of the fields and rows contains the data record.
+18. SQL keywords are not case sensitive.
+19. SELECT * FROM Customers;
+20. Select statement is used to select data from the database.
+21. The data returned is stored in result table called the result-set.
+22. Select distinct is used to return only distinct values.
+23. The Where clause is used to filter the records.
+24. The WHERE clause can be combined with AND, OR, and NOT operators.
+25. The AND and OR operators are used to filter records based on more than one condition:
+26. The AND operator displays a record if all the conditions separated by AND is TRUE.
+27. The OR operator displays a record if any of the conditions separated by OR is TRUE.
+28. The NOT operator displays a record if the condition(s) is NOT TRUE.
+29. The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+30. The ORDER BY keyword sorts the records in ascending order by default. To sort the records in descending order, use the DESC keyword.
+31. The INSERT INTO statement is used to insert new records in a table.
+32. A field with a NULL value is a field with no value.
+33. The UPDATE statement is used to modify the existing records in a table.
+34. The DELETE statement is used to delete existing records in a table.
+35. The SELECT TOP clause is used to specify the number of records to return.
+36. The MIN() function returns the smallest value of the selected column.
+37. The MAX() function returns the largest value of the selected column.
+38. The COUNT() function returns the number of rows that matches a specified criteria.
+39. The AVG() function returns the average value of a numeric column.
+40. The SUM() function returns the total sum of a numeric column.
+41. The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+42. The IN operator allows you to specify multiple values in a WHERE clause.
+43. The IN operator is a shorthand for multiple OR conditions.
+44. The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.
+45. The BETWEEN operator is inclusive: begin and end values are included. 
+46. SQL aliases are used to give a table, or a column in a table, a temporary name.
+47. Aliases are often used to make column names more readable.
+48. An alias only exists for the duration of the query.
